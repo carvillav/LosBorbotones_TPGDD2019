@@ -138,3 +138,39 @@ D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\Fr
 D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csproj.CoreCompileInputs.cache
 D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.exe
 D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.pdb
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe.config
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.exe
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.pdb
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.pdb
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csprojResolveAssemblyReference.cache
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.AccionesCliente.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.BuscarCliente.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.ModificarCliente.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.NuevoCliente.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.RestaurarCliente.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.AccionesProveedor.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.FiltrarProveedor.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.ModificarProveedor.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.NuevoProveedor.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.RestaurarProveedor.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.AccionesRol.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.FiltrarRol.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.ModificarRol.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.NuevoRol.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.RestaurarRol.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.CargaCredito.Cargar.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.ComprarOferta.Ofertas.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.CrearOferta.NuevaOferta.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.EntregaOferta.BuscarOferta.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.EntregaOferta.EntregoOferta.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Facturar.EmitirFac.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Facturar.FacturarProv.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.ListadoEstadistico.Estadistico.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Login.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.CambiarPass.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaAdmin.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaCliente.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaProveedor.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Properties.Resources.resources
+C:\Home\GDD\LosBorbotones_TPGDD2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csproj.GenerateResource.Cache

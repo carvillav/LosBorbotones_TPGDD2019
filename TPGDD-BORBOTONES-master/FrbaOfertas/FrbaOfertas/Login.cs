@@ -26,7 +26,7 @@ namespace FrbaOfertas
         private void Login_Load(object sender, EventArgs e)
         {
             // TODO: esta línea de código carga datos en la tabla 'gD2C2019DataSet.Role' Puede moverla o quitarla según sea necesario.
-            this.roleTableAdapter.Fill(this.gD2C2019DataSet.Role);
+            //this.roleTableAdapter.Fill(this.gD2C2019DataSet.Role);
 
         }
 
