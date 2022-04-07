@@ -6,6 +6,11 @@ Hola, este es un trabajo práctico que implementó la Universidad Tecnológica N
 * Rojas Miguel
 
 # AMBIENTE DE DESARROLLO
+
+Para poder ejecutar el siguiente programa se necesita dos aplicaciones, cada una con sus diferentes configuraciones.
+
+SQL Server 2012
+
 1.- Primer paso, se necesita tener instalado el motor de base de datos SQL Server 2012 con las siguientes consideraciones:
 * El nombre de la instancia del motor de base de datos a instalar debe llamarse “SQLSERVER2012”, no utilizar el nombre “Default” para la instancia e instalar como instancia con nombre (“Named Instance”).
 * La autenticación debe ser por “Modo Mixto”.
@@ -42,3 +47,15 @@ Hola, este es un trabajo práctico que implementó la Universidad Tecnológica N
 
 Ejemplo:
  * sqlcmd -S localhost\SQLSERVER2012 -U gd -P gd2012 -i gd_esquema.Schema.sql,gd_esquema.Maestra.Table.sql -a 32767 -o resultado_output.txt
+ 
+Visual Studio 2012
+ 
+ 1.- Primer paso, para ejecutar esta aplicación es necesario instalar Visual Studio 2012 con el Framework de .NET 4.5, la versión Express posee la funcionalidad necesaria como para desarrollar el Trabajo Práctico.
+ 
+ 2.- Segundo paso, la aplicación Desktop deberá conectarse a la base de datos con los siguientes parámetros:
+ * Origen de datos: Microsoft SQL Server (SqlClient)
+ * localhost\SQLSERVER2012
+ * Utilizar autenticación de SQL Server:
+   * Nombre de Usuario: gdCupon2019
+   * Password: gd2019
+ * Nombre de la base de datos: GD2C2019
