@@ -1,0 +1,140 @@
+C:\Users\Matias\Desktop\Groupon2019\src\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe.config
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe.config
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.pdb
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csprojResolveAssemblyReference.cache
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Login.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaCliente.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Properties.Resources.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csproj.GenerateResource.Cache
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.exe
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.pdb
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaAdmin.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaProveedor.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.CrearOferta.NuevaOferta.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.AccionesCliente.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.ModificarCliente.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.NuevoCliente.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.AccionesProveedor.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.FiltrarProveedor.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.ModificarProveedor.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.NuevoProveedor.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.AccionesRol.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.NuevoRol.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.CargaCredito.Cargar.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.FiltrarRol.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.ModificarRol.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.RolEncontrado.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe.config
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.exe
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.pdb
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.pdb
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csprojResolveAssemblyReference.cache
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.AccionesCliente.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.ModificarCliente.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.NuevoCliente.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.RestaurarCliente.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.AccionesProveedor.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.FiltrarProveedor.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.ModificarProveedor.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.NuevoProveedor.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.AccionesRol.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.FiltrarRol.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.ModificarRol.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.NuevoRol.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.RestaurarRol.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.RolEncontrado.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.CargaCredito.Cargar.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.CrearOferta.NuevaOferta.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Login.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaAdmin.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaCliente.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaProveedor.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Properties.Resources.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csproj.GenerateResource.Cache
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.RestaurarCliente.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.RestaurarRol.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.BuscarCliente.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.BuscarCliente.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.ListadoEstadistico.Form1.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.ListadoEstadistico.Form1.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.RestaurarProveedor.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.RestaurarProveedor.resources
+C:\Users\ABM\Documents\gprueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.ComprarOferta.CompraOferta.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.ComprarOferta.Ofertas.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Facturar.FacturarProv.resources
+C:\Users\ABM\Desktop\gdPrueba\Pruebas01\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Facturar.EmitirFac.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe.config
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.exe
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.pdb
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.pdb
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csprojResolveAssemblyReference.cache
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.AccionesCliente.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.BuscarCliente.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.ModificarCliente.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.NuevoCliente.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.RestaurarCliente.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.AccionesProveedor.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.FiltrarProveedor.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.ModificarProveedor.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.NuevoProveedor.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.RestaurarProveedor.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.AccionesRol.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.FiltrarRol.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.ModificarRol.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.NuevoRol.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.RestaurarRol.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.CargaCredito.Cargar.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.ComprarOferta.Ofertas.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.CrearOferta.NuevaOferta.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.EntregaOferta.EntregoOferta.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Facturar.EmitirFac.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Facturar.FacturarProv.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.ListadoEstadistico.Estadistico.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Login.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.CambiarPass.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaAdmin.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaCliente.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaProveedor.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Properties.Resources.resources
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csproj.GenerateResource.Cache
+C:\Users\ABM\Desktop\TPGDD-BORBOTONES\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.EntregaOferta.BuscarOferta.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe.config
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.exe
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\bin\Debug\FrbaOfertas.pdb
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csproj.AssemblyReference.cache
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.AccionesCliente.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.BuscarCliente.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.ModificarCliente.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.NuevoCliente.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmCliente.RestaurarCliente.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.AccionesProveedor.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.FiltrarProveedor.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.ModificarProveedor.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.NuevoProveedor.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmProveedor.RestaurarProveedor.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.AccionesRol.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.FiltrarRol.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.ModificarRol.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.NuevoRol.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.AbmRol.RestaurarRol.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.CargaCredito.Cargar.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.ComprarOferta.Ofertas.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.CrearOferta.NuevaOferta.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.EntregaOferta.BuscarOferta.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.EntregaOferta.EntregoOferta.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Facturar.EmitirFac.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Facturar.FacturarProv.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.ListadoEstadistico.Estadistico.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Login.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.CambiarPass.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaAdmin.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaCliente.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.PantallaUsuarios.PantallaProveedor.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.Properties.Resources.resources
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csproj.GenerateResource.cache
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.csproj.CoreCompileInputs.cache
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.exe
+D:\carlos\gestion de datos\enunciado 2019\TPGDD-BORBOTONES-master\FrbaOfertas\FrbaOfertas\obj\Debug\FrbaOfertas.pdb
