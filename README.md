@@ -38,7 +38,7 @@ SQL Server 2012
 
 5.- Quinto paso, salir del “Management Studio” como usuario “sa” y volver a ingresar con el nuevo usuario “gd” creado, es probable que informe que la contraseña ha caducado, cambiar la contraseña ingresando exactamente la misma que antes: “gd2019”.
 
-6.- Sexto paso, una vez que tenemos la base de datos creada y configurada con el usuario, necesitamos ejecutar dos scripts, para ello debemos ejecutar un comando de consola de SQL Server llamada “sqlcmd”, este comando debe ejecutar en orden los siguientes dos archivos:
+6.- Sexto paso, una vez que tenemos la base de datos creada y configurada con el usuario, necesitamos ejecutar dos scripts, que se encuentran en el archivo comprimido "Base de Datos.zip" a lo cual se tiene que descomprimir, para ello debemos ejecutar un comando de consola de SQL Server llamada “sqlcmd”, este comando debe ejecutar en orden los siguientes dos archivos:
 * gd_esquema.Schema.sql: Este archivo genera un esquema llamado “gd_esquema” dentro de la base de datos y lo asigna al usuario “gdCupon2019”.
 * gd_esquema.Maestra.sql: Este archivo crea la tabla Maestra.
 * gd_esquema.Maestra.Table.sql: Este archivo carga con los datos correspondientes, el archivo posee un volumen significante y no puede ser ejecutado desde el “Managment Studio”.
