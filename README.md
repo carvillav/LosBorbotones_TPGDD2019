@@ -10,7 +10,7 @@ Hola, este es un trabajo práctico que implementó la Universidad Tecnológica N
 Para poder ejecutar el siguiente programa se necesita dos aplicaciones, cada una con sus diferentes configuraciones.
 
 SQL Server 2012
- * SQL Server 2012 Service Express (https://www.microsoft.com/es-cl/download/details.aspx?id=50003)
+ * SQL Server 2012 Service Express [Link](https://www.microsoft.com/es-cl/download/details.aspx?id=50003)
 
 1.- Primer paso, se necesita tener instalado el motor de base de datos SQL Server 2012 con las siguientes consideraciones:
 * El nombre de la instancia del motor de base de datos a instalar debe llamarse “SQLSERVER2012”, no utilizar el nombre “Default” para la instancia e instalar como instancia con nombre (“Named Instance”).
@@ -50,7 +50,7 @@ Ejemplo:
  * sqlcmd -S localhost\SQLSERVER2012 -U gd -P gd2012 -i gd_esquema.Schema.sql,gd_esquema.Maestra.Table.sql -a 32767 -o resultado_output.txt
  
 Visual Studio 2012
- * Visual Studio Express 2012 for Windows Desktop (https://my.visualstudio.com/Downloads?q=visual%20studio%202012&wt.mc_id=o~msft~vscom~older-downloads)
+ * Visual Studio Express 2012 for Windows Desktop [Link](https://my.visualstudio.com/Downloads?q=visual%20studio%202012&wt.mc_id=o~msft~vscom~older-downloads)
  
  1.- Primer paso, para ejecutar esta aplicación es necesario instalar Visual Studio 2012 con el Framework de .NET 4.5, la versión Express posee la funcionalidad necesaria como para desarrollar el Trabajo Práctico.
  
