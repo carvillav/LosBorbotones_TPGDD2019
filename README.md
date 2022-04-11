@@ -1,5 +1,13 @@
-# LosBorbotones_TPGDD2019
-Hola, este es un trabajo práctico que implementó la Universidad Tecnológica Nacional, en la materia Gestión de Datos, en el año 2019
+# Frba Ofertas - LosBorbotones_TPGDD2019
+Hola, este es un trabajo práctico que implementó la Universidad Tecnológica Nacional, en la materia Gestión de Datos, en el año 2019.
+
+Mediante este trabajo práctico se intenta simular la migración y remoción de un viejo sistema de ofertas que ha quedado obsoleto.
+
+Es para ello que se necesita que se reformulen los procesos y el diseño de la base de datos que cumpla con las nuevas restricciones y se adecue a la situación actual.
+
+Dado el ambiente académico, se ha simplificado el domino para que el mismo se adecue a los tiempo de cursada.
+
+Es por ello que la implementación será bajo una aplicación escritorio y no un entorno WEB.
 
 # INTEGRANTES
 * Villegas Avalos Carlos Alejandro
@@ -61,3 +69,49 @@ Visual Studio 2012
    * Nombre de Usuario: gdCupon2019
    * Password: gd2019
  * Nombre de la base de datos: GD2C2019
+
+ # BASE DE DATOS
+ 
+Una vez que tengamos la base de datos "gd_esquema.Schema.sql" en donde estarán todos los registros que se va a necesitar y como está todo mezclado, lo siguiente es migrar los datos a sus respectivas tablas en el cual vamos a ejecutar el Script "creacionTablas.sql" que está en la carpeta "TPGDD-BORBOTONES-master".
+
+ # CONFIGURACIÓN HORARIO
+ 
+La fecha del sistema se toma del archivo "app.config", se debe incluir "using System.Configuration" en el formulario en que lo voy a usar para setear la "app.config" se hace doble clik sobre en el "explorador de soluciones" sobre "Properties" e incluir el concepto en la grilla que se presenta en nuestro caso: fechaSistema, esto se hace por única vez, y para acceder a la variable: var fecha_sistema = Properties.Settings.Default.fechaSistema
+ 
+ # EJECUCIÓN DEL PROGRAMA
+ 
+En Visual Studio, ejecutar "Program.cs" para iniciar la aplicación, se mostrará la siguiente imagen:
+ 
+ ![Image text](https://github.com/carvillav/LosBorbotones_TPGDD2019/blob/main/TPGDD-BORBOTONES-master/imagenes/Portada_Inicio.jpg)
+
+Para acceder como Administrador, se tiene que iniciar sesión con los siguientes datos:
+ * Username: admin.
+ * Password: w23e
+ * Rol:
+   * Nombre: Administrador General
+   * Funcionalidades: todas las existentes
+
+Después que se inició sesión, aparacerá la siguiente pantalla en la que mostrará sus funcionalidades:
+ 
+ ![Image text](https://github.com/carvillav/LosBorbotones_TPGDD2019/blob/main/TPGDD-BORBOTONES-master/imagenes/Pantalla_Principal_Adm.jpg)
+ 
+Para acceder como cliente, tiene que llenar los campos, al igual que el Administrador, pero en Rol seleccionar el campo Cliente y al ingresar te mostrará la siguiente pantalla, también podrás acceder a sus funcionalidades:
+ 
+ ![Image text](https://github.com/carvillav/LosBorbotones_TPGDD2019/blob/main/TPGDD-BORBOTONES-master/imagenes/Pantalla_Principal_Cliente.jpg)
+
+Para acceder como Proveedor, tiene que llenar los campos, al igual que el Administrador, pero en Rol seleccionar el campo Proveedor y al ingresar te mostrará la siguiente pantalla, también podrás acceder a sus funcionalidades:
+ 
+ ![Image text](https://github.com/carvillav/LosBorbotones_TPGDD2019/blob/main/TPGDD-BORBOTONES-master/imagenes/Pantalla_Principal_Proveedor.jpg)
+ 
+Para Registrar un nuevo usuario, se tiene que seleccionar el Tipo de Usuario y presionar el botón Registrar, como se muestra en la imagen:
+ 
+ ![Image text](https://github.com/carvillav/LosBorbotones_TPGDD2019/blob/main/TPGDD-BORBOTONES-master/imagenes/Registrar_Nuevo_Usuario.jpg)
+ 
+ Si registras un nuevo Cliente, te mostrará el siguiente formulario:
+ 
+  ![Image text](https://github.com/carvillav/LosBorbotones_TPGDD2019/blob/main/TPGDD-BORBOTONES-master/imagenes/Formulario_Nuevo_Cliente.jpg)
+ 
+ Si quieres registrar un nuevo Proveedor, te mostrará la siguiente pantalla:
+ 
+  ![Image text](https://github.com/carvillav/LosBorbotones_TPGDD2019/blob/main/TPGDD-BORBOTONES-master/imagenes/Formulario_Nuevo_Proveedor.jpg)
+ 
